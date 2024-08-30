@@ -41,7 +41,7 @@ To run this project, you'll need to have the following libraries installed:
 ### Installation
 - **Clone** the Repository:
 ```bash
-git clone https://github.com/your-username/AI_Snake.git
+git clone https://github.com/LucaMica02/AI_Snake.git
 ```
 - **Navigate** to the Source Directory:
 ```bash
